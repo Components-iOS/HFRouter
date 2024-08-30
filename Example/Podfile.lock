@@ -1,0 +1,16 @@
+PODS:
+  - HFRouter (0.1.0)
+
+DEPENDENCIES:
+  - HFRouter (from `../`)
+
+EXTERNAL SOURCES:
+  HFRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFRouter: 13a361801a8c374b4c15a9d4151f6ecef63946de
+
+PODFILE CHECKSUM: 1ef1c84b9a29e7f4fa1c074a2bfbbcf0a820b045
+
+COCOAPODS: 1.10.1

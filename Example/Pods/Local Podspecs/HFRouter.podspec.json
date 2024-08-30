@@ -1,0 +1,22 @@
+{
+  "name": "HFRouter",
+  "version": "0.1.0",
+  "summary": "A short description of HFRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuhongfei/HFRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuhongfei": "13718045729@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liuhongfei/HFRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HFRouter/Classes/**/*"
+}
