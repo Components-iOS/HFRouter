@@ -14,11 +14,11 @@ Pod::Spec.new do |s|
   中间间路由组件
                        DESC
 
-  s.homepage         = 'https://gitee.com/moduless/hfrouter'
+  s.homepage         = 'https://github.com/Components-iOS/HFRouter'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liuhongfei' => '13718045729@163.com' }
-  s.source           = { :git => 'https://gitee.com/moduless/hfrouter.git', :tag => s.version.to_s }
-  s.ios.deployment_target = '9.0'
+  s.source           = { :git => 'https://github.com/Components-iOS/HFRouter.git', :tag => s.version.to_s }
+  s.ios.deployment_target = '12.0'
   
   s.subspec 'CTMediator' do |c|
       c.source_files = 'HFRouter/Classes/CTMediator/**/*'
