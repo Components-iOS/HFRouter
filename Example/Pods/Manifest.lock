@@ -1,9 +1,9 @@
 PODS:
-  - HFRouter (0.1.0):
-    - HFRouter/CTMediator (= 0.1.0)
-    - HFRouter/MGJRouter (= 0.1.0)
-  - HFRouter/CTMediator (0.1.0)
-  - HFRouter/MGJRouter (0.1.0)
+  - HFRouter (0.2.0):
+    - HFRouter/CTMediator (= 0.2.0)
+    - HFRouter/MGJRouter (= 0.2.0)
+  - HFRouter/CTMediator (0.2.0)
+  - HFRouter/MGJRouter (0.2.0)
 
 DEPENDENCIES:
   - HFRouter (from `../`)
@@ -13,8 +13,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HFRouter: f75ea515014127a3b0e47a95524574523da07804
+  HFRouter: d5ea85100b758cb378b3facbb6d35007a2c28f69
 
-PODFILE CHECKSUM: 8f47e8e2d5c442724cc3b68cb649836ca9b7e686
+PODFILE CHECKSUM: ce60536984118e7d21e688ad55ccbdfbfb5032f5
 
 COCOAPODS: 1.16.2
